@@ -7,10 +7,8 @@ This repository contains my attempts at the exercises from the Machine Learning 
 The MLPR course covers various topics in machine learning and pattern recognition, including:
 
 - Supervised Learning
-- Unsupervised Learning
 - Probabilistic Models
 - Neural Networks
-- Dimensionality Reduction
 
 ## Structure
 
